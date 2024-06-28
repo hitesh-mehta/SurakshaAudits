@@ -76,7 +76,7 @@ https://github.com/hitesh-mehta/SurakshaAudits/assets/72137241/59a58f12-ed67-4e7
 3. **Training:** Avail our training sessions to get your team acquainted with the system.
 4. **Go Live:** Start using SurakshaAudit to automate and enhance your auditing process.
 
-For more information, visit our website or contact our support team [here](urbanai0209@gmail.com).
+For more information, visit our website or contact our support team [here](mailto::urbanai0209@gmail.com).
 
 ---
 
