@@ -13,9 +13,12 @@ SurakshaAudit is a revolutionary web application designed to automate the bank a
 ## Watch our Introduction Video
 
 
+https://github.com/hitesh-mehta/SurakshaAudits/assets/72137241/3d7c43c3-0c30-4cf9-b64d-1143f35af3ec
+
+
+
 ## Target Market
 
-https://github.com/hitesh-mehta/SurakshaAudits/assets/72137241/79221306-d9fb-492e-87a1-ae4430c7afbe
 
 
 - Nationalized banks
