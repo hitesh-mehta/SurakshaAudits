@@ -87,4 +87,4 @@ For more information, visit our website or contact our support team [here](mailt
 
 ---
 
-Thank you for choosing SurakshaAudit, your partner in revolutionizing the bank auditing process.
+Thank you for choosing SurakshAudits, your partner in revolutionizing the bank auditing process.
