@@ -1,5 +1,6 @@
 # SurakshAudits
 
+# *Note:* This repository has moved to [this link.](https://github.com/sakshamvedi/bob--audit-project) Kindly visit the link for more detailed features!
 ## Overview
 SurakshaAudit is a revolutionary web application designed to automate the bank auditing process, traditionally known for being cumbersome and lengthy. Our solution leverages advanced technologies like blockchain, machine learning, and data visualization to improve efficiency, detect fraud, and simplify compliance management.
 
