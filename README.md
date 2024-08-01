@@ -1,4 +1,4 @@
-# SurakshaAudit
+# SurakshAudits
 
 ## Overview
 SurakshaAudit is a revolutionary web application designed to automate the bank auditing process, traditionally known for being cumbersome and lengthy. Our solution leverages advanced technologies like blockchain, machine learning, and data visualization to improve efficiency, detect fraud, and simplify compliance management.
